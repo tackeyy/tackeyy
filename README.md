@@ -32,3 +32,5 @@ AI × M&A · accounting & tax automation · internal controls and audit trails �
 
 > I build the tools I wish existed, then open-source them.
 > A founder who can prototype doesn't wait for a roadmap.
+
+<!-- profile readme -->
