@@ -1,4 +1,4 @@
-### Yusuke Takita （瀧田雄介）
+### Yusuke Takita
 
 **A CEO who automates his own company with code.** Ex-engineer turned founder. I build CLI tools and AI agents to run the back office — and open-source the ones I can.
 
