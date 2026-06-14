@@ -8,31 +8,31 @@
 
 #### Start here
 
-- **[M&A Navi](https://ma-navigator.com/corp)** - Japan's online M&A matching marketplace.
-- **[ghostty-layout](https://github.com/tackeyy/ghostty-layout)** - Swift CLI to apply split layouts to the Ghostty terminal.
-- **[xai-cli](https://github.com/tackeyy/xai-cli)** - xAI / Grok search CLI for analyzing X posts.
-- **[slamy](https://github.com/tackeyy/slamy)** - Slack MCP server and CLI for agent workflows.
+- **[M&A Navi](https://ma-navigator.com/corp)** — Japan's online M&A matching marketplace.
+- **[ghostty-layout](https://github.com/tackeyy/ghostty-layout)** — Swift CLI to apply split layouts to the Ghostty terminal.
+- **[xai-cli](https://github.com/tackeyy/xai-cli)** — xAI / Grok search CLI for analyzing X posts.
+- **[slamy](https://github.com/tackeyy/slamy)** — Slack MCP server and CLI for agent workflows.
 
 #### What I'm building
 
 **At M&A Navi, inc.**
-- **M&A Navi** - Japan's online M&A matching marketplace.
-- **Deal-management platform** - a cloud workspace for advisors to run M&A deals end-to-end.
-- **SmartDD** - AI-assisted financial due diligence that drafts investment memos from raw data.
+- **M&A Navi** — Japan's online M&A matching marketplace.
+- **Deal-management platform** — a cloud workspace for advisors to run M&A deals end-to-end.
+- **SmartDD** — AI-assisted financial due diligence that drafts investment memos from raw data.
 
 **Open source**
-- **[freee-mcp](https://github.com/freee/freee-mcp)** - Contributor to freee's official MCP server for their accounting API.
-- **[ghostty-layout](https://github.com/tackeyy/ghostty-layout)** - Swift CLI to apply split layouts to the Ghostty terminal.
-- **[xai-cli](https://github.com/tackeyy/xai-cli)** - xAI / Grok search CLI for analyzing X posts.
-- **[slamy](https://github.com/tackeyy/slamy)** - Slack MCP server and CLI.
-- **[noty](https://github.com/tackeyy/noty)** - Notion CLI, library, and MCP server for TypeScript.
-- **[google-ads-cli](https://github.com/tackeyy/google-ads-cli)** / **[meta-cli](https://github.com/tackeyy/meta-cli)** - Ads operations CLIs for work automation.
+- **[freee-mcp](https://github.com/freee/freee-mcp)** — Contributor to freee's official MCP server for their accounting API.
+- **[ghostty-layout](https://github.com/tackeyy/ghostty-layout)** — Swift CLI to apply split layouts to the Ghostty terminal.
+- **[xai-cli](https://github.com/tackeyy/xai-cli)** — xAI / Grok search CLI for analyzing X posts.
+- **[slamy](https://github.com/tackeyy/slamy)** — Slack MCP server and CLI.
+- **[noty](https://github.com/tackeyy/noty)** — Notion CLI, library, and MCP server for TypeScript.
+- **[google-ads-cli](https://github.com/tackeyy/google-ads-cli)** / **[meta-cli](https://github.com/tackeyy/meta-cli)** — Ads operations CLIs for work automation.
 
 I build internal agent workflows for back-office automation: Slack operations, X automation, accounting and tax workflows, and audit-friendly internal controls.
 
 #### What I care about
 
-AI x M&A · accounting & tax automation · internal controls and audit trails · agents that do real back-office work, not demos.
+AI × M&A · accounting & tax automation · internal controls and audit trails · agents that do real back-office work, not demos.
 
 #### Connect
 
