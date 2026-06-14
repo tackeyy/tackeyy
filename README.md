@@ -1,6 +1,6 @@
 ### Yusuke Takita
 
-**Founder/CEO at M&A Navi, inc. building AI-native back-office automation.** Ex-engineer turned founder. I build CLI tools and AI agents for M&A, accounting, tax, and internal operations, then open-source the parts that can be shared.
+**CEO at M&A Navi, inc. building AI-native back-office automation.** Ex-engineer turned operator. I build CLI tools and AI agents for M&A, accounting, tax, and internal operations, then open-source the parts that can be shared.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -41,6 +41,6 @@ AI × M&A · accounting & tax automation · internal controls and audit trails �
 ---
 
 > I build the tools I wish existed, then open-source them.
-> A founder who can prototype doesn't wait for a roadmap.
+> A CEO who can prototype doesn't wait for a roadmap.
 
 <!-- profile readme -->
