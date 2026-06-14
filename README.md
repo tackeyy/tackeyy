@@ -8,7 +8,7 @@
 
 #### Start here
 
-- **[M&A Navi](https://ma-navigator.com/corp)** — Japan's online M&A matching marketplace.
+- **[M&A Navi](https://ma-navigator.com/)** — Japan's online M&A matching marketplace.
 - **[ghostty-layout](https://github.com/tackeyy/ghostty-layout)** — Swift CLI to apply split layouts to the Ghostty terminal.
 - **[xai-cli](https://github.com/tackeyy/xai-cli)** — xAI / Grok search CLI for analyzing X posts.
 - **[slamy](https://github.com/tackeyy/slamy)** — Slack MCP server and CLI for agent workflows.
