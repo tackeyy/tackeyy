@@ -13,9 +13,9 @@
 #### Start here
 
 - **[M&A Navi](https://ma-navigator.com/)** — Japan's online M&A matching marketplace.
+- **[mission](https://github.com/tackeyy/mission)** — Quality-gated autonomous mission loop (plan → execute → review → score → iterate) for Claude Code and Codex.
+- **[freee-mcp](https://github.com/freee/freee-mcp)** — Official MCP server for freee's accounting API (contributor).
 - **[ghostty-layout](https://github.com/tackeyy/ghostty-layout)** — Swift CLI to apply split layouts to the Ghostty terminal.
-- **[xai-cli](https://github.com/tackeyy/xai-cli)** — xAI / Grok search CLI for analyzing X posts.
-- **[slamy](https://github.com/tackeyy/slamy)** — Slack MCP server and CLI for agent workflows.
 
 #### What I'm building
 
@@ -25,6 +25,7 @@
 - **SmartDD** — AI-assisted financial due diligence that drafts investment memos from raw data.
 
 **Open source**
+- **[mission](https://github.com/tackeyy/mission)** — Quality-gated autonomous mission loop for Claude Code and Codex: plan, execute, peer-review, score, and iterate until a threshold passes.
 - **[freee-mcp](https://github.com/freee/freee-mcp)** — Contributor to freee's official MCP server for their accounting API.
 - **[ghostty-layout](https://github.com/tackeyy/ghostty-layout)** — Swift CLI to apply split layouts to the Ghostty terminal.
 - **[xai-cli](https://github.com/tackeyy/xai-cli)** — xAI / Grok search CLI for analyzing X posts.
