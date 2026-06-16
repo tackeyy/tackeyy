@@ -1,3 +1,5 @@
+**English** | [日本語](README.ja.md)
+
 ### Yusuke Takita
 
 **CEO at M&A Navi, inc. building AI-native back-office automation.** Ex-engineer turned operator. I build CLI tools and AI agents for M&A, accounting, tax, and internal operations, then open-source the parts that can be shared.
