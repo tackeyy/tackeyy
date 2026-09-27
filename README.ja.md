@@ -11,6 +11,7 @@ M&A・会計・税務・社内業務のための CLI ツールと AI エージ�
 | プロジェクト | 概要 |
 |---|---|
 | **[mission](https://github.com/tackeyy/mission)** | Claude Code・Codex 向けの品質ゲート付き自律ループ。計画 → 実行 → ピアレビュー → 採点を、しきい値を超えるまで反復します。 |
+| **[freee-mcp](https://github.com/freee/freee-mcp)** | freee 会計 API の公式 MCP サーバー（コントリビューター）。 |
 | **[ghostty-layout](https://github.com/tackeyy/ghostty-layout)** | Ghostty ターミナルに分割レイアウトを適用する Swift 製 CLI。 |
 | **[slamy](https://github.com/tackeyy/slamy)** | Slack の CLI 兼 MCP サーバー。 |
 | **[noty](https://github.com/tackeyy/noty)** | Notion の CLI・TypeScript ライブラリ・MCP サーバー。 |

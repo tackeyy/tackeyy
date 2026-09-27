@@ -11,6 +11,7 @@ I build CLI tools and AI agents for M&A, accounting, tax, and internal operation
 | Project | What it does |
 |---|---|
 | **[mission](https://github.com/tackeyy/mission)** | Quality-gated autonomous loop for Claude Code and Codex: plan → execute → peer-review → score → iterate until a threshold passes. |
+| **[freee-mcp](https://github.com/freee/freee-mcp)** | freee's official MCP server for the freee accounting API (contributor). |
 | **[ghostty-layout](https://github.com/tackeyy/ghostty-layout)** | Swift CLI that applies split-pane layouts to the Ghostty terminal. |
 | **[slamy](https://github.com/tackeyy/slamy)** | Slack CLI and MCP server. |
 | **[noty](https://github.com/tackeyy/noty)** | Notion CLI, TypeScript library, and MCP server. |
