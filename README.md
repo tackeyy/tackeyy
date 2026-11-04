@@ -25,7 +25,7 @@ At Wedge AI we build Company OS, where AI agents carry company operations throug
 #### Previously
 
 - **CEO at M&A Navi, inc.** (2021–2026) — built an online M&A matching marketplace, a deal-management platform, and SmartDD (AI-assisted financial due diligence).
-- **CTO at ALIVAL** (2019–2021)
+- **Director & CTO at ALIVAL** (2019–2021)
 - **Engineer at Works Applications**
 
 #### What I care about
