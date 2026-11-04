@@ -2,9 +2,9 @@
 
 ### Yusuke Takita
 
-**CEO at [M&A Navi, inc.](https://ma-navigator.com/corp)** — ex-engineer turned operator, building AI-native back-office automation.
+**Founder & CEO at [Wedge AI, Inc.](https://wedgeai.co.jp/)** — ex-engineer turned operator, building AI-native companies.
 
-I build CLI tools and AI agents for M&A, accounting, tax, and internal operations, and open-source the parts that can be shared.
+At Wedge AI we build Company OS, where AI agents carry company operations through to completion. I also build CLI tools and AI agents for accounting, tax, and internal operations, and open-source the parts that can be shared.
 
 #### Featured
 
@@ -22,16 +22,15 @@ I build CLI tools and AI agents for M&A, accounting, tax, and internal operation
 - **Marketing & analytics** — [google-ads-cli](https://github.com/tackeyy/google-ads-cli) · [meta-cli](https://github.com/tackeyy/meta-cli) · [mailchimp-cli](https://github.com/tackeyy/mailchimp-cli) · [cloudflare-analytics-cli](https://github.com/tackeyy/cloudflare-analytics-cli) · [xai-cli](https://github.com/tackeyy/xai-cli) (X search via Grok)
 - **Claude Code** — [claude-code-usage-alert](https://github.com/tackeyy/claude-code-usage-alert) (session budget alerts via Hooks)
 
-#### At M&A Navi
+#### Previously
 
-- **[M&A Navi](https://ma-navigator.com/)** — Japan's online M&A matching marketplace.
-- **Deal-management platform** — a cloud workspace for advisors to run M&A deals end-to-end.
-- **SmartDD** — AI-assisted financial due diligence that drafts investment memos from raw data.
-- **Internal agents** — Slack operations, X automation, accounting and tax workflows, and audit-friendly internal controls.
+- **CEO at M&A Navi, inc.** (2021–2026) — built an online M&A matching marketplace, a deal-management platform, and SmartDD (AI-assisted financial due diligence).
+- **Director & CTO at ALIVAL** (2019–2021)
+- **Engineer at Works Applications**
 
 #### What I care about
 
-AI × M&A · accounting & tax automation · internal controls and audit trails · agents that do real back-office work, not demos.
+AI-native companies · AI × M&A · accounting & tax automation · internal controls and audit trails · agents that do real back-office work, not demos.
 
 #### Languages I've shipped in
 
@@ -46,7 +45,7 @@ AI × M&A · accounting & tax automation · internal controls and audit trails �
 
 #### Connect
 
-[𝕏 @3chhe](https://x.com/3chhe) · [M&A Navi](https://ma-navigator.com/corp)
+[Wedge AI](https://wedgeai.co.jp/) · [LinkedIn](https://www.linkedin.com/in/yusuke-takita/) · [𝕏 @3chhe](https://x.com/3chhe)
 
 ---
 

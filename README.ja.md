@@ -2,9 +2,9 @@
 
 ### 瀧田 雄介（Yusuke Takita）
 
-**[株式会社M&Aナビ](https://ma-navigator.com/corp) 代表取締役。** エンジニア出身の経営者として、AI ネイティブなバックオフィス自動化に取り組んでいます。
+**[Wedge AI株式会社](https://wedgeai.co.jp/) 代表取締役。** エンジニア出身の経営者として、AIネイティブな企業の実装に取り組んでいます。
 
-M&A・会計・税務・社内業務のための CLI ツールと AI エージェントを開発し、共有できる部分はオープンソースにしています。
+Wedge AIでは、AIエージェントが業務を完了まで進める「Company OS」を開発しています。あわせて、会計・税務・社内業務のためのCLIツールとAIエージェントを開発し、共有できる部分はオープンソースにしています。
 
 #### 主なプロジェクト
 
@@ -22,16 +22,15 @@ M&A・会計・税務・社内業務のための CLI ツールと AI エージ�
 - **マーケティング・分析** — [google-ads-cli](https://github.com/tackeyy/google-ads-cli) · [meta-cli](https://github.com/tackeyy/meta-cli) · [mailchimp-cli](https://github.com/tackeyy/mailchimp-cli) · [cloudflare-analytics-cli](https://github.com/tackeyy/cloudflare-analytics-cli) · [xai-cli](https://github.com/tackeyy/xai-cli)（Grok による X 検索）
 - **Claude Code** — [claude-code-usage-alert](https://github.com/tackeyy/claude-code-usage-alert)（Hooks によるセッション予算アラート）
 
-#### 株式会社M&Aナビにて
+#### これまで
 
-- **[M&Aナビ](https://ma-navigator.com/)** — 日本のオンライン M&A マッチングプラットフォーム。
-- **ディール管理プラットフォーム** — アドバイザーが M&A 案件を一気通貫で進めるためのクラウドワークスペース。
-- **SmartDD** — 生データから投資検討メモを自動起案する、AI 支援の財務デューデリジェンス。
-- **社内エージェント** — Slack 運用、X 運用、会計・税務ワークフロー、監査に耐える内部統制。
+- **株式会社M&Aナビ 代表取締役**（2021〜2026年）— オンラインのM&Aマッチングプラットフォーム、ディール管理プラットフォーム、AI支援の財務デューデリジェンス「SmartDD」を開発。
+- **株式会社ALIVAL取締役CTO**（2019〜2021年）
+- **Works Applicationsエンジニア**
 
 #### 大切にしていること
 
-AI × M&A · 会計・税務の自動化 · 内部統制と監査証跡 · デモではなく、実際のバックオフィス業務をこなすエージェント。
+AIネイティブな企業 · AI × M&A · 会計・税務の自動化 · 内部統制と監査証跡 · デモではなく、実際のバックオフィス業務をこなすエージェント。
 
 #### 使ってきた言語
 
@@ -46,7 +45,7 @@ AI × M&A · 会計・税務の自動化 · 内部統制と監査証跡 · デ�
 
 #### つながる
 
-[𝕏 @3chhe](https://x.com/3chhe) · [M&Aナビ](https://ma-navigator.com/corp)
+[Wedge AI](https://wedgeai.co.jp/) · [LinkedIn](https://www.linkedin.com/in/yusuke-takita/) · [𝕏 @3chhe](https://x.com/3chhe)
 
 ---
 
