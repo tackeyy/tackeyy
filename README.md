@@ -10,21 +10,22 @@ I run a company where AI agents do real back-office and client work, and I open-
 
 | Project | What it does |
 |---|---|
-| **[design-system](https://github.com/wedgeai-inc/design-system)** | Generators and checks that turn AI-drafted Japanese slides, whitepapers, diagrams, documents and sheets into client-ready deliverables. Brand-swappable; text overflow stops the build; wording checks catch AI tells. MIT. |
-| **[mission](https://github.com/tackeyy/mission)** | Quality-gated autonomous loop for Claude Code and Codex: plan → execute → peer-review → score → iterate until a threshold passes. |
-| **[freee-cli](https://github.com/wedgeai-inc/freee-cli)** | Unofficial CLI for the freee public accounting API — invoices, quotes, partners, expense requests. |
-| **[freee-mcp](https://github.com/freee/freee-mcp)** | freee's official MCP server for the freee accounting API (contributor). |
+| [design-system](https://github.com/wedgeai-inc/design-system) | Generators and checks that turn AI-drafted Japanese slides, whitepapers, diagrams, documents and sheets into client-ready deliverables. Brand-swappable; text overflow stops the build; wording checks catch AI tells. MIT. |
+| [mission](https://github.com/tackeyy/mission) | Quality-gated autonomous loop for Claude Code and Codex: plan → execute → peer-review → score → iterate until a threshold passes. |
+| [freee-cli](https://github.com/wedgeai-inc/freee-cli) | Unofficial CLI for the freee public accounting API — invoices, quotes, partners, expense requests. |
+| [freee-mcp](https://github.com/freee/freee-mcp) | freee's official MCP server for the freee accounting API (contributor). |
 
 #### CLIs I use every day
 
-- **Workspace** — [slack-api-cli](https://github.com/tackeyy/slack-api-cli) (Slack CLI & MCP) · [noty](https://github.com/tackeyy/noty) (Notion CLI, library & MCP) · [zoomy](https://github.com/tackeyy/zoomy) (Zoom)
-- **Marketing** — [google-ads-cli](https://github.com/tackeyy/google-ads-cli) · [meta-cli](https://github.com/tackeyy/meta-cli) · [mailchimp-cli](https://github.com/tackeyy/mailchimp-cli) · [xai-cli](https://github.com/tackeyy/xai-cli) (X search via Grok)
-- **Terminal & Claude Code** — [ghostty-layout](https://github.com/tackeyy/ghostty-layout) (split layouts for Ghostty) · [claude-code-usage-alert](https://github.com/tackeyy/claude-code-usage-alert)
+- **Workspace**: [slack-api-cli](https://github.com/tackeyy/slack-api-cli) (Slack CLI & MCP) · [noty](https://github.com/tackeyy/noty) (Notion CLI, library & MCP) · [zoomy](https://github.com/tackeyy/zoomy) (Zoom)
+- **Marketing**: [google-ads-cli](https://github.com/tackeyy/google-ads-cli) · [meta-cli](https://github.com/tackeyy/meta-cli) · [mailchimp-cli](https://github.com/tackeyy/mailchimp-cli) · [xai-cli](https://github.com/tackeyy/xai-cli) (X search via Grok)
+- **Tax & accounting open data**: [open-zeimu-mcp](https://github.com/zeimu-ai/open-zeimu-mcp) (MCP server for Japanese tax primary sources) · [open-journal-rules](https://github.com/zeimu-ai/open-journal-rules) (open dataset of Japanese tax journal-entry rules) · [open-industry-support-guide](https://github.com/zeimu-ai/open-industry-support-guide) (FSA industry support guidelines as Markdown + JSON)
+- **Terminal & Claude Code**: [ghostty-layout](https://github.com/tackeyy/ghostty-layout) (split layouts for Ghostty) · [claude-code-usage-alert](https://github.com/tackeyy/claude-code-usage-alert)
 
 #### Previously
 
-- **CEO at M&A Navi, inc.** (2021 – Oct 2026) — online M&A marketplace, deal-management platform, and SmartDD (AI-assisted financial due diligence).
-- **Director & CTO at ALIVAL** (2019–2021)
+- **CEO at M&A Navi, inc. (now 株式会社セルダン)** (2021 – Oct 2026) — online M&A marketplace, deal-management platform, and SmartDD (AI-assisted financial due diligence).
+- **Director & CTO at ALIVAL, inc. (now 株式会社セルダン)** (2019–2021)
 - **Engineer at Works Applications**
 
 #### What I care about
