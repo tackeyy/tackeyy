@@ -2,46 +2,34 @@
 
 ### Yusuke Takita
 
-**Founder & CEO at [Wedge AI, Inc.](https://wedgeai.co.jp/)** — ex-engineer turned operator, building AI-native companies.
+**Founder & CEO at [Wedge AI, Inc.](https://wedgeai.co.jp/)** — engineer turned operator, building AI-native companies.
 
-At Wedge AI we build Company OS, where AI agents carry company operations through to completion. I also build CLI tools and AI agents for accounting, tax, and internal operations, and open-source the parts that can be shared.
+I run a company where AI agents do real back-office and client work, and I open-source the tooling that makes that output trustworthy enough to ship.
 
 #### Featured
 
 | Project | What it does |
 |---|---|
+| **[design-system](https://github.com/wedgeai-inc/design-system)** | Generators and checks that turn AI-drafted Japanese slides, whitepapers, diagrams, documents and sheets into client-ready deliverables. Brand-swappable; text overflow stops the build; wording checks catch AI tells. MIT. |
 | **[mission](https://github.com/tackeyy/mission)** | Quality-gated autonomous loop for Claude Code and Codex: plan → execute → peer-review → score → iterate until a threshold passes. |
+| **[freee-cli](https://github.com/wedgeai-inc/freee-cli)** | Unofficial CLI for the freee public accounting API — invoices, quotes, partners, expense requests. |
 | **[freee-mcp](https://github.com/freee/freee-mcp)** | freee's official MCP server for the freee accounting API (contributor). |
-| **[ghostty-layout](https://github.com/tackeyy/ghostty-layout)** | Swift CLI that applies split-pane layouts to the Ghostty terminal. |
-| **[slamy](https://github.com/tackeyy/slamy)** | Slack CLI and MCP server. |
-| **[noty](https://github.com/tackeyy/noty)** | Notion CLI, TypeScript library, and MCP server. |
 
-#### More CLIs I use every day
+#### CLIs I use every day
 
-- **Workspace** — [zoomy](https://github.com/tackeyy/zoomy) (Zoom) · [ticky](https://github.com/tackeyy/ticky) (TickTick)
-- **Marketing & analytics** — [google-ads-cli](https://github.com/tackeyy/google-ads-cli) · [meta-cli](https://github.com/tackeyy/meta-cli) · [mailchimp-cli](https://github.com/tackeyy/mailchimp-cli) · [cloudflare-analytics-cli](https://github.com/tackeyy/cloudflare-analytics-cli) · [xai-cli](https://github.com/tackeyy/xai-cli) (X search via Grok)
-- **Claude Code** — [claude-code-usage-alert](https://github.com/tackeyy/claude-code-usage-alert) (session budget alerts via Hooks)
+- **Workspace** — [slack-api-cli](https://github.com/tackeyy/slack-api-cli) (Slack CLI & MCP) · [noty](https://github.com/tackeyy/noty) (Notion CLI, library & MCP) · [zoomy](https://github.com/tackeyy/zoomy) (Zoom)
+- **Marketing** — [google-ads-cli](https://github.com/tackeyy/google-ads-cli) · [meta-cli](https://github.com/tackeyy/meta-cli) · [mailchimp-cli](https://github.com/tackeyy/mailchimp-cli) · [xai-cli](https://github.com/tackeyy/xai-cli) (X search via Grok)
+- **Terminal & Claude Code** — [ghostty-layout](https://github.com/tackeyy/ghostty-layout) (split layouts for Ghostty) · [claude-code-usage-alert](https://github.com/tackeyy/claude-code-usage-alert)
 
 #### Previously
 
-- **CEO at M&A Navi, inc.** (2021–2026) — built an online M&A matching marketplace, a deal-management platform, and SmartDD (AI-assisted financial due diligence).
+- **CEO at M&A Navi, inc.** (2021 – Oct 2026) — online M&A marketplace, deal-management platform, and SmartDD (AI-assisted financial due diligence).
 - **Director & CTO at ALIVAL** (2019–2021)
 - **Engineer at Works Applications**
 
 #### What I care about
 
-AI-native companies · AI × M&A · accounting & tax automation · internal controls and audit trails · agents that do real back-office work, not demos.
-
-#### Languages I've shipped in
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white)
-![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=flat-square)
+AI-native companies · AI output that is good enough to hand to a client · accounting & tax automation · audit trails · agents that finish the work, not demos.
 
 #### Connect
 
@@ -50,6 +38,5 @@ AI-native companies · AI × M&A · accounting & tax automation · internal cont
 ---
 
 > I build the tools I wish existed, then open-source them.
-> A CEO who can prototype doesn't wait for a roadmap.
 
 <!-- profile readme -->

@@ -2,54 +2,41 @@
 
 ### 瀧田 雄介（Yusuke Takita）
 
-**[Wedge AI株式会社](https://wedgeai.co.jp/) 代表取締役。** エンジニア出身の経営者として、AIネイティブな企業の実装に取り組んでいます。
+**[株式会社Wedge AI](https://wedgeai.co.jp/) 代表取締役** — エンジニア出身の経営者。AIネイティブな会社をつくっています。
 
-Wedge AIでは、AIエージェントが業務を完了まで進める「Company OS」を開発しています。あわせて、会計・税務・社内業務のためのCLIツールとAIエージェントを開発し、共有できる部分はオープンソースにしています。
+AIエージェントが実際にバックオフィスと顧客向けの仕事を担う会社を経営しながら、AIの成果物を顧客に出せる品質へ引き上げる道具をオープンソースで公開しています。
 
 #### 主なプロジェクト
 
-| プロジェクト | 概要 |
+| プロジェクト | 内容 |
 |---|---|
-| **[mission](https://github.com/tackeyy/mission)** | Claude Code・Codex 向けの品質ゲート付き自律ループ。計画 → 実行 → ピアレビュー → 採点を、しきい値を超えるまで反復します。 |
-| **[freee-mcp](https://github.com/freee/freee-mcp)** | freee 会計 API の公式 MCP サーバー（コントリビューター）。 |
-| **[ghostty-layout](https://github.com/tackeyy/ghostty-layout)** | Ghostty ターミナルに分割レイアウトを適用する Swift 製 CLI。 |
-| **[slamy](https://github.com/tackeyy/slamy)** | Slack の CLI 兼 MCP サーバー。 |
-| **[noty](https://github.com/tackeyy/noty)** | Notion の CLI・TypeScript ライブラリ・MCP サーバー。 |
+| **[design-system](https://github.com/wedgeai-inc/design-system)** | AIで作った日本語のスライド・白書・図・文書・表を、顧客に出せる品質に仕上げる生成器と検査。ブランドを差し替えられ、文字が枠に収まらなければ生成を止め、AIの癖のある言い回しを指摘します。MIT。 |
+| **[mission](https://github.com/tackeyy/mission)** | Claude Code・Codex向けの品質ゲート付き自律ループ。計画 → 実行 → レビュー → 採点 → 改善を、基準を超えるまで繰り返します。 |
+| **[freee-cli](https://github.com/wedgeai-inc/freee-cli)** | freee会計の公開APIを使う非公式CLI。請求書・見積書・取引先・経費申請を扱います。 |
+| **[freee-mcp](https://github.com/freee/freee-mcp)** | freee公式のMCPサーバー（コントリビューター）。 |
 
-#### 日常業務で使っている CLI
+#### 毎日使っているCLI
 
-- **ワークスペース** — [zoomy](https://github.com/tackeyy/zoomy)（Zoom）· [ticky](https://github.com/tackeyy/ticky)（TickTick）
-- **マーケティング・分析** — [google-ads-cli](https://github.com/tackeyy/google-ads-cli) · [meta-cli](https://github.com/tackeyy/meta-cli) · [mailchimp-cli](https://github.com/tackeyy/mailchimp-cli) · [cloudflare-analytics-cli](https://github.com/tackeyy/cloudflare-analytics-cli) · [xai-cli](https://github.com/tackeyy/xai-cli)（Grok による X 検索）
-- **Claude Code** — [claude-code-usage-alert](https://github.com/tackeyy/claude-code-usage-alert)（Hooks によるセッション予算アラート）
+- **ワークスペース** — [slack-api-cli](https://github.com/tackeyy/slack-api-cli)（SlackのCLI・MCP）· [noty](https://github.com/tackeyy/noty)（NotionのCLI・ライブラリ・MCP）· [zoomy](https://github.com/tackeyy/zoomy)（Zoom）
+- **マーケティング** — [google-ads-cli](https://github.com/tackeyy/google-ads-cli) · [meta-cli](https://github.com/tackeyy/meta-cli) · [mailchimp-cli](https://github.com/tackeyy/mailchimp-cli) · [xai-cli](https://github.com/tackeyy/xai-cli)（GrokによるXの検索）
+- **ターミナル・Claude Code** — [ghostty-layout](https://github.com/tackeyy/ghostty-layout)（Ghosttyの分割レイアウト）· [claude-code-usage-alert](https://github.com/tackeyy/claude-code-usage-alert)
 
-#### これまで
+#### 経歴
 
-- **株式会社M&Aナビ 代表取締役**（2021〜2026年）— オンラインのM&Aマッチングプラットフォーム、ディール管理プラットフォーム、AI支援の財務デューデリジェンス「SmartDD」を開発。
-- **株式会社ALIVAL取締役CTO**（2019〜2021年）
-- **Works Applicationsエンジニア**
+- **株式会社M&Aナビ 代表取締役**（2021年〜2026年10月）— M&Aのオンラインマッチング、案件管理の基盤、SmartDD（AIによる財務デューデリジェンス）を開発。
+- **ALIVAL 取締役CTO**（2019–2021）
+- **ワークスアプリケーションズ エンジニア**
 
-#### 大切にしていること
+#### 関心のあること
 
-AIネイティブな企業 · AI × M&A · 会計・税務の自動化 · 内部統制と監査証跡 · デモではなく、実際のバックオフィス業務をこなすエージェント。
+AIネイティブな会社 · 顧客に出せる品質のAIの成果物 · 経理・税務の自動化 · 監査証跡 · デモで終わらず仕事を完了させるエージェント
 
-#### 使ってきた言語
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white)
-![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=flat-square)
-
-#### つながる
+#### リンク
 
 [Wedge AI](https://wedgeai.co.jp/) · [LinkedIn](https://www.linkedin.com/in/yusuke-takita/) · [𝕏 @3chhe](https://x.com/3chhe)
 
 ---
 
-> 自分が「あればいいのに」と思うツールを作り、オープンソースにする。
-> プロトタイプを作れる経営者は、ロードマップを待たない。
+> 欲しい道具は自分でつくり、オープンソースにする。
 
-<!-- profile readme (ja) -->
+<!-- profile readme -->
